@@ -14,3 +14,5 @@ This system could have had some added functionality, if there had been more time
 
 A small demo video has been attached, in order to demonstrate what the input should look like.
 The program can be run using the command **"python3 vending_machine.py"**.
+
+*Side Note: This system has been tested with the goal of breaking the system. You are welcome to give it any crazy test cases like 800 bottles of soda (assuming the machine can produce an infinite supply of products) or enter the total amount fed into the system as 121.95, etc.*
