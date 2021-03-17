@@ -10,7 +10,7 @@
 **Additional functionality:**
 Accounts for typos in the user's selection from the menu. For example, if the user types in "chibs" instead of Chips, the system knows that it has to choose Chips.
 
-This system could have had some additional functionality, if there had been more time. I could have implemented features that would account for a finite number of coins. I also would have worked on improving the "minimal change dispensary" system, where the system dispenses the exact change using the smallest number of coins it can use. 
+This system could have had some added functionality, if there had been more time. I could have implemented features that would account for a finite number of coins. I also would have worked on improving the "minimal change dispensary" system, where the system dispenses the exact change using the smallest number of coins it can use. 
 
 A small demo video has been attached, in order to demonstrate what the input should look like.
 The program can be run using the command **"python3 vending_machine.py"**.
